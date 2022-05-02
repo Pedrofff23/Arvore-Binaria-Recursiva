@@ -22,7 +22,6 @@ int main() {
     ArvBin *arvore;
     arvore = cria_ArvBin();
 
-
     /**
     * CRIANDO A ARVORE
     */
