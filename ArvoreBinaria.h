@@ -1,3 +1,4 @@
+
 typedef struct NO* ArvBin;
 
 ArvBin* cria_ArvBin();

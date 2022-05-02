@@ -1,7 +1,6 @@
 //
 // Created by Pedrofff on 02/05/2022.
 //
-// Arquivo ArvoreBinaria.c
 #include<stdio.h>
 #include<stdlib.h>
 #include"ArvoreBinaria.h"
