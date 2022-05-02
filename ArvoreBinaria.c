@@ -194,4 +194,5 @@ void posOrdem_ArvBin(ArvBin *raiz){
         posOrdem_ArvBin(&((*raiz)->dir));
         //printf("%d\n",(*raiz)->info);
     }
+
 }
