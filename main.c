@@ -92,4 +92,5 @@ int main() {
     printf("Code executed in %f milliseconds. LIBERANDO ARVORE COM %d CHAVES\n", elapsed, tamanho);
 
     return 0;
+
 }
