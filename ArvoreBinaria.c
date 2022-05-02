@@ -5,6 +5,7 @@
 #include<stdlib.h>
 #include"ArvoreBinaria.h"
 
+
 struct NO{
     int info;
     struct NO *esq;
